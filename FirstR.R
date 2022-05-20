@@ -1,1 +1,1 @@
-print("This is live on githib")
+print("This is live on github")
